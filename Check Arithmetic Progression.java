@@ -1,7 +1,7 @@
 /*GFG->   Check Arithmetic Progression*/
 /*Java Solution */
 class Solution
-{
+{ 
     boolean checkIsAP(int arr[] ,int n)
     {
         // code here
