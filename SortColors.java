@@ -1,6 +1,6 @@
 /*leetcode->   75.Sort Colors */
 
-class SortColors {
+class SortColors { 
     public void sortColors(int[] nums) {
         int i=0,j=0,k=nums.length-1,t;
         while(j<=k){
